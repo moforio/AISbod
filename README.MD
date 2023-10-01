@@ -1,5 +1,6 @@
-# [Defence against Image Distortions using Artificial Immune Systems]() [] 
-# Official implementation![AISbod_Overview](figures/AISbod_flowchart_3.png)
+# [Defence against Image Distortions using Artificial Immune Systems]
+# Official implementation
+![AISbod_Overview](figures/AISbod_flowchart_3.png)
 
 ## News
 
