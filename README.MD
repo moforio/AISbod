@@ -1,4 +1,4 @@
-# [Defence against Image Distortions using Artificial Immune Systems]()[]
+# [Defence against Image Distortions using Artificial Immune Systems]()[https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293]
 # Official implementation
 ![AISbod_Overview](figures/AISbod_flowchart_3.png)
 
@@ -42,7 +42,14 @@ You can download pretrained models of YOLOv4 using our method and other related 
 Please consider cite if our work is useful for your research:
 
 ```Bibtex
-
+@article{Ofori-Oduro2023,
+author = "Mark Ofori-Oduro and Maria Amer",
+title = "{Defence against Image Distortions using Artificial Immune Systems}",
+year = "2023",
+month = "10",
+url = "https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293",
+doi = "10.36227/techrxiv.24190293.v1"
+}
 ```
 
  DISCLAIMER:
