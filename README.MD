@@ -1,10 +1,10 @@
-# [Defence against Image Distortions using Artificial Immune Systems]()[https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293]
+# [Defence against Image Distortions using Artificial Immune Systems](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293)
 # Official implementation
 ![AISbod_Overview](figures/AISbod_flowchart_3.png)
 
 ## News
 
-**`02-10-2023`**: The paper is available on [arXiv]() now
+**`02-10-2023`**: The paper is available on [arXiv](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293) now
 
 **`02-10-2023`**: The pretrained YOLOv4 model is released
 
