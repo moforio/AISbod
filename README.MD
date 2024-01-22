@@ -1,4 +1,4 @@
-# [Defence against Image Distortions using Artificial Immune Systems](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293)
+# [Artificial Immune Systems for data augmentation](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293)
 # Official implementation
 ![AISbod_Overview](figures/AISbod_flowchart_3.png)
 
