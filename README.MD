@@ -37,7 +37,7 @@ You can download pre-trained models of YOLOv4 using our method and other related
 * For PASCAL download weights [here](https://drive.google.com/drive/folders/1-8DJR3tC9bHC6OAwCEpzonL3WSUUhO0d?usp=sharing)
 * For COCO download weights [here](https://drive.google.com/drive/folders/1QwG-4RNs8rmzsJ2ZgtSLgrcSJHLrduDp?usp=sharing)
 
-You can download pre-trained models of DINO using our method [here] (https://drive.google.com/drive/folders/1SL3RrbVdYU_Es8iKsZUAjo21_2iyjM76?usp=drive_link)
+You can download pre-trained models of DINO using our method [here](https://drive.google.com/drive/folders/1SL3RrbVdYU_Es8iKsZUAjo21_2iyjM76?usp=drive_link)
 
 
 
