@@ -8,7 +8,7 @@
 
 **`02-10-2023`**: The pretrained YOLOv4 model is released
 
-**`21-03-2024`**: The pretrained DINO model is released
+**`21-03-2024`**: The pre-trained DINO model is released
 
 ## Installation
 
@@ -17,15 +17,15 @@ We provide an executable version of our code for given input images using our me
 ### Run code on Windows
 * Download code for Windows [here](https://drive.google.com/file/d/1awDgsXVG7j0Qnr35NyzYM2_3bTWNedOf/view?usp=drive_link)
 * Place your training samples (antigens) following the augmented ratio in our paper in the "input" folder
-* Double click on the excutable file
+* Double-click on the executable file
 * Enter your desired affinity threshold and wait for antibodies to be generated into "output" folder
 * Augment antibodies to your training samples and train your model. 
 
 ### Run on Linux
 * Download code for Linux [here](https://drive.google.com/file/d/1OMGSsV5F9OIj8ijEhEaV7OkFeeQJWbQi/view?usp=drive_link)
 * Place your training samples (antigens) following the augmented ratio in our paper in the "input" folder
-* Double click on the excutable filein the "input" folder
-* Open a terminal on the path the executable file is located
+* Double-click on the executable file in the "input" folder
+* Open a terminal on the path where the executable file is located
 * Run this command ```chmod +x Exe_AISbod ```
 * Run this command ```./Exe_AISbod"```
 * Enter your desired affinity threshold and wait for antibodies to be generated into "output" folder
