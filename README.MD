@@ -8,6 +8,7 @@
 
 **`02-10-2023`**: The pretrained YOLOv4 model is released
 
+**`21-03-2024`**: The pretrained DINO model is released
 
 ## Installation
 
