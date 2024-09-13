@@ -1,8 +1,12 @@
-# [Artificial Immune Systems for data augmentation](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293)
+# [Artificial Immune Systems for data augmentation](https://www.sciencedirect.com/science/article/abs/pii/S0262885624002683)
 # Official implementation
 ![AISbod_Overview](figures/AISbod_flowchart_3.png)
 
 ## News
+
+**`23-07-2024`**: The paper is available on [IMAVIS](https://www.sciencedirect.com/science/article/abs/pii/S0262885624002683) now
+
+**`29-06-2024`**: The paper is ACCEPTED for publication on [IMAVIS](https://www.sciencedirect.com/journal/image-and-vision-computing)
 
 **`02-10-2023`**: The paper is available on [TechrXiv](https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293) now
 
