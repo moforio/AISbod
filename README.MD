@@ -49,13 +49,14 @@ You can download pre-trained models of DINO using our method [here](https://driv
 Please consider cite if our work is useful for your research:
 
 ```Bibtex
-@article{Ofori-Oduro2023,
-author = "Mark Ofori-Oduro and Maria Amer",
-title = "{Defence against Image Distortions using Artificial Immune Systems}",
-year = "2023",
-month = "10",
-url = "https://www.techrxiv.org/articles/preprint/Defence_against_Image_Distortions_using_Artificial_Immune_Systems/24190293",
-doi = "10.36227/techrxiv.24190293.v1"
+@article{ofori2024artificial,
+  title={Artificial immune systems for data augmentation},
+  author={Ofori-Oduro, Mark and Amer, Maria},
+  journal={Image and Vision Computing},
+  volume={149},
+  pages={105163},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
